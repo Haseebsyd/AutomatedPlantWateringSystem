@@ -1,6 +1,5 @@
-# AutomatedPlantWateringSystem
+# Introduction for Automated Plant Watering System
 
-# Introduction
 This project utilizes Arduino and Java to create an automated plant watering system, providing an efficient and sustainable solution for plant care.
 
 # Context
